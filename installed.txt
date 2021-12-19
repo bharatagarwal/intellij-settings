@@ -1,0 +1,4 @@
+club.nutsoft.Github3Theme
+com.github.pshirshov.bytecodeeditor
+com.jetbrains.edu
+org.jetbrains.kotlin
